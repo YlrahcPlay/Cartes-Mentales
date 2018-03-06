@@ -1,0 +1,28 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    background: #DDD;
+}
+
+
+/* Paramètrage d'affichage des attributs en étiquettes */
+.etiquette {
+    background: none;
+    color: white;
+    text-shadow: 0px 0px 4px black;
+    font-size: 14px;
+    font-weight: 600;
+    border: 0px;
+    box-shadow: none;
+}
+
+.etiquette::before {
+    border-color: transparent;
+}
