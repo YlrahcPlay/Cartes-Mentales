@@ -13,7 +13,7 @@
 ## Web :
 * HTML/CSS (En projet)
 * [PHP](https://framindmap.org/c/maps/472759/public)
-* [Leaflet](https://framindmap.org/c/maps/465766/public] ([Les Scripts](https://github.com/YlrahcPlay/Leaflet))
+* [Leaflet](https://framindmap.org/c/maps/465766/public) ([Les Scripts](https://github.com/YlrahcPlay/Leaflet))
 
 ## Base de Données :
 * [SQL](https://framindmap.org/c/maps/458029/public)
