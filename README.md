@@ -1,9 +1,9 @@
 # Cartes-Mentales
 
 ## Générale
-* [Qu'est-ce qu'une Carte Mentale](https://framindmap.org/c/maps/472369/public)
-* Où trouver des Données (En Projet)
-* Où trouver des tutos... (En Projet)
+* [Qu'est-ce qu'une Carte Mentale ?](https://framindmap.org/c/maps/472369/public)
+* Où trouver des Données ? (En Projet)
+* Où trouver de l'aide ? (En Projet)
 
 ## Programmation :
 * [Python](https://framindmap.org/c/maps/458056/public) (A Améliorer)
@@ -21,6 +21,7 @@
 ## Cartographie :
 * QGIS (Un jour peut-être)
 * [FME](https://framindmap.org/c/maps/466893/public) (En Cours)
+* Comment bien faire une carte? (En Projet)
 
 
 ## Cours Théorique :
