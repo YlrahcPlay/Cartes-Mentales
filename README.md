@@ -7,11 +7,11 @@
 
 ## Programmation :
 * [Python](https://framindmap.org/c/maps/458056/public) (A Améliorer)
-* PyQt : En projet
+* PyQt (En projet)
 * [PyQgis](https://framindmap.org/c/maps/458028/public) (En Cours)
 
 ## Web :
-* [HTML/CSS]() : En projet
+* HTML/CSS (En projet)
 * [PHP](https://framindmap.org/c/maps/472759/public)
 * [Leaflet](https://framindmap.org/c/maps/465766/public] ([Les Scripts](https://github.com/YlrahcPlay/Leaflet))
 
@@ -19,7 +19,7 @@
 * [SQL](https://framindmap.org/c/maps/458029/public)
 
 ## Cartographie :
-* QGIS : Un jour peut-être
+* QGIS (Un jour peut-être)
 * [FME](https://framindmap.org/c/maps/466893/public) (En Cours)
 
 
