@@ -2,8 +2,8 @@
 
 ## Générale
 * [Qu'est-ce qu'une Carte Mentale](https://framindmap.org/c/maps/472369/public)
-* [Où trouver des Données] (En Cours)
-* [Où trouver des tutos...] (A faire)
+* Où trouver des Données (En Projet)
+* Où trouver des tutos... (En Projet)
 
 ## Programmation :
 * [Python](https://framindmap.org/c/maps/458056/public) (A Améliorer)
