@@ -1,4 +1,4 @@
-# Cartes-Mentales
+# LPSIG Cassini
 
 ## Générale
 * [Qu'est-ce qu'une Carte Mentale ?](https://framindmap.org/c/maps/472369/public)
