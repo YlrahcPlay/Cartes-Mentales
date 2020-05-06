@@ -11,7 +11,7 @@
 * [PyQgis](https://framindmap.org/c/maps/458028/public) (En Cours)
 
 ## Web :
-* HTML/CSS (En projet)
+* [HTML/CSS](https://framindmap.org/c/maps/472758/public) (En Cours)
 * [PHP](https://framindmap.org/c/maps/472759/public)
 * [Leaflet](https://framindmap.org/c/maps/465766/public) ([scripts associé](https://github.com/YlrahcPlay/LPSIG-Cassini/tree/Leaflet))
 
