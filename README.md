@@ -8,7 +8,7 @@
 ## Programmation :
 * [Python](https://framindmap.org/c/maps/458056/public) (A Améliorer)
 * PyQt (En projet)
-* [PyQgis](https://framindmap.org/c/maps/458028/public) (En Cours)
+* [PyQgis](https://framindmap.org/c/maps/458028/public) (En Pause)
 
 ## Web :
 * [HTML/CSS](https://framindmap.org/c/maps/472758/public) (En Cours)
@@ -20,7 +20,7 @@
 
 ## Cartographie :
 * QGIS (Un jour peut-être)
-* [FME](https://framindmap.org/c/maps/466893/public) (En Cours)
+* [FME](https://framindmap.org/c/maps/466893/public) (En Pause)
 * [Comment bien faire une carte?](https://framindmap.org/c/maps/735710/public)
 
 
